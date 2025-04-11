@@ -1,0 +1,38 @@
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: #0a0a23;
+    color: #e0e0ff;
+    text-align: center;
+}
+header {
+    background-color: #121243;
+    padding: 2rem;
+}
+.intro, .tokenomics {
+    padding: 2rem;
+}
+.btn {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.75rem 1.5rem;
+    background: #00f0ff;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    padding: 0.5rem 0;
+}
+footer {
+    background: #121243;
+    padding: 1rem;
+    font-size: 0.8rem;
+    margin-top: 2rem;
+}
